@@ -1,5 +1,5 @@
 # Fuck西安中学
-*一个自制西安中学学生证的教程 不具备储值功能 * 
+*一个自制西安中学学生证的教程 不具备储值功能*  
 [简体中文](/how-to-make.md)  
 [繁体中文](/how-to-make.md)  
 [English](/how-to-make.md)  
