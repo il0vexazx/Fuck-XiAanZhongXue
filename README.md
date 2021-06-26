@@ -61,5 +61,6 @@ Keep your mouth shut
 好问题
 
 # 意义何在
-母校我操你妈
+不自由毋宁死
+https://en.wikipedia.org/wiki/Live_Free_or_Die
 
