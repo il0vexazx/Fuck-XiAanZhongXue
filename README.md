@@ -1,11 +1,10 @@
 # Fuck西安中学
-一个自制西安中学门禁卡的教程 不具备储值功能  
-[简体中文](/how-to-make.md)
-[繁体中文](/how-to-make.md)
-[English](/how-to-make.md)
+一个自制西安中学学生证的教程 不具备储值功能  
+[简体中文](/how-to-make.md)  
+[繁体中文](/how-to-make.md)  
+[English](/how-to-make.md)  
 
-
-我不想看下面的内容快告诉我[怎么做？](/how-to-make.md)
+我不想看下面的内容但是快告诉我[怎么做？](/how-to-make.md)
 
 # 这是什么
 一个**完全免费且开源**的自制  
@@ -21,7 +20,7 @@
 如果你希望稳定长久的使用下去  
 Keep your mouth shut  
 
-# 是否违法
+# 这违法吗
 陕西省西安中学虽然是公办学校/政府学校  
 但本质上是由**陕西省教育厅管理**  
 属于**事业单位** 而非**企业单位**  
@@ -40,7 +39,7 @@ Keep your mouth shut
 ~~即使你没有触犯任何法律法规  
 但你仍有可能被该地区公安局被行政拘留的风险~~
 
-# 有何用途
+# 这有啥用
 正如其他自制证件  
 这张卡可以伪造你的身份  
 在某种程度上保护你的隐私  
@@ -60,7 +59,5 @@ Keep your mouth shut
 # 如何制作
 好问题
 
-# 意义何在
-不自由毋宁死
-https://en.wikipedia.org/wiki/Live_Free_or_Die
-
+# 意义何在  
+[不自由毋宁死](https://en.wikipedia.org/wiki/Live_Free_or_Die)  
