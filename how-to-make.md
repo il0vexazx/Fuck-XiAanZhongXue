@@ -12,9 +12,8 @@
 
 * 四色彩色打印机  
 - 8丝或以上A3塑封机 
-* 装有有PhotoShop的电脑 或 装有「照片编辑器」的 安卓设备/「Pixelmator」iOS设备
+* 装有有PhotoShop的电脑 或 装有「照片编辑器」的 安卓设备/[「Pixelmator」](https://apps.apple.com/us/app/pixelmator/id924695435)iOS设备 最好使用Photoshop 2010以上的版本 避免兼容性问题 尽量不要使用iOS设备 因为安装字体过于繁琐
 - PET水晶背胶相纸  
-* 一颗热爱自制的心  
 
 ## 以下二选一（为了切割成品圆角）
 * PVC切卡机 要求遵守[ISO 7810](https://zh.wikipedia.org/wiki/ISO_7810)国际标准中ID-1标准（85.60mm × 53.98 mm）**可选**  
@@ -27,7 +26,7 @@
 # 第二种「均衡」（PVC卡）
 * 四色/六色彩色打印机  
 - 8丝或以上A3塑封机
-* * 装有有PhotoShop的电脑 或 装有「照片编辑器」的 安卓设备/「Pixelmator」iOS设备
+* 装有有PhotoShop的电脑 或 装有「照片编辑器」的 安卓设备/[「Pixelmator」](https://apps.apple.com/us/app/pixelmator/id924695435)iOS设备 最好使用Photoshop 2010以上的版本 避免兼容性问题 尽量不要使用iOS设备 因为安装字体过于繁琐
 * PVC切卡机 要求遵守[ISO 7810](https://zh.wikipedia.org/wiki/ISO_7810)国际标准中ID-1标准（85.60mm × 53.98 mm）
 - 美工刀
 * 502胶水 **可选** 
@@ -37,5 +36,4 @@
 * 证卡机
 - 彩色带
 * 遵守[ISO 7810](https://zh.wikipedia.org/wiki/ISO_7810)国际标准中ID-1标准（85.60mm × 53.98 mm）的NFC卡或白卡
-- 装有有PhotoShop的电脑 或 装有有PhotoShop的电脑 或 装有「照片编辑器」的 安卓设备/「Pixelmator」iOS设备
-一颗热爱自制的心
+- * 装有有PhotoShop的电脑 或 装有「照片编辑器」的 安卓设备/[「Pixelmator」](https://apps.apple.com/us/app/pixelmator/id924695435)iOS设备 最好使用Photoshop 2010以上的版本 避免兼容性问题 尽量不要使用iOS设备 因为安装字体过于繁琐
