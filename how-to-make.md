@@ -10,11 +10,11 @@
 
 # 第一种「省钱」(卡贴）
 
-四色彩色打印机  
-8丝或以上A3塑封机 
-装有有PhotoShop的电脑 或 装有「照片编辑器」Android/「Pixelmator」iOS设备
-PET水晶背胶相纸  
-一颗热爱自制的心  
+* 四色彩色打印机  
+- 8丝或以上A3塑封机 
+* 装有有PhotoShop的电脑 或 装有「照片编辑器」Android/「Pixelmator」iOS设备
+- PET水晶背胶相纸  
+* 一颗热爱自制的心  
 
 以下二选一（为了切割成品圆角）
 PVC切卡机 要求遵守[ISO 7810](https://zh.wikipedia.org/wiki/ISO_7810)国际标准中ID-1标准（85.60mm × 53.98 mm）**可选**  
