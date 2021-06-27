@@ -50,7 +50,7 @@ You can leave school like your other day students and classmates at any legal ti
 Do whatever you **want** with your homies
 Of course, it can also be used to **crime**
 Depends on **how you use it**
-Just like **a kitchen knife can cook but it also can murder people**
+Just like **a knife can cook but it also can murder people**
 ***use it wisely, bitach***
 
 # How to get it
@@ -58,10 +58,12 @@ You can make your own according to the method and source file that I provided
 You can also send me a [email](email.md) ask me for one  
 Although it is completely free  
 But I will not gonna help you pay for **any package transportation costs**
-**Therefore I strongly recommend you to make your own one**  
-It is said that teaching people how to fish is worse than give people a fish
+**Therefore I strongly recommend you to make your own card**  
+you know what Chinese people always say that   
+> Give a man a fish and you feed him for a day
+Teach a man to fish and you feed him for a lifetime
 # How to make
 [How_to_make](how_to_make.md)
 
-# What is the meaning
-["Freedom or Death"](https://en.wikipedia.org/wiki/Live_Free_or_Die)
+# What's the point of this project
+["Live Free Or Die"](https://en.wikipedia.org/wiki/Live_Free_or_Die)
