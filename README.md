@@ -1,6 +1,6 @@
 # Fuck西安中学
-*一个自制西安中学学生证的教程 不具备储值功能*   
-by an ordinary person  
+一个自制西安中学学生证的教程 不具备储值功能   
+by 一个普通人  
 [简体中文](/README.md)  
 [繁体中文](/README.md)  
 [English](/README_EN.md)  
