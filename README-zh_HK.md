@@ -2,8 +2,8 @@
 一個自製西安中學學生證的教程 不具備儲值功能  
 by 一個普通人  
 [簡體中文](/README.md)  
-[繁體中文](/README.md)  
-[English](/README_EN.md)  
+[繁體中文](/README-zh_HK.md)  
+[English](/README-en_US.md)  
 
 快告訴我[怎麼做？ ](/how-to-make.md)
 
