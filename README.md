@@ -40,7 +40,7 @@ by 一个普通人
 所以**不构成任何犯罪**  
 ~~即使你没有触犯任何法律法规  
 但你仍有可能被该地区公安局被行政拘留的风险~~
-[为啥啊？](https://zh.wikipedia.org/wiki/%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD)
+[为啥啊？（这就是中国）](https://zh.wikipedia.org/wiki/%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD)
 
 # 这有啥用
 正如其他自制证件  
